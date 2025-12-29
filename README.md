@@ -35,9 +35,9 @@
 <section id="pricing">
 <h2>Cennik (przedziały cenowe)</h2>
 <div class="pricing">
-<div class="card"><span class="badge">Start</span><h3>Landing Page</h3><p class="price">300–350 zł</p><ul><li>✔ 1 strona (oferta / wizytówka)</li><li>✔ Responsywność (telefon + komputer)</li><li>✔ Formularz kontaktowy</li><li>✔ Podstawowe animacje</li><li>✔ Szybkie wdrożenie</li></ul></div>
-<div class="card"><span class="badge">Popularne</span><h3>Strona firmowa</h3><p class="price">500–600 zł</p><ul><li>✔ Do 5 podstron</li><li>✔ Nowoczesny design</li><li>✔ Formularz + wybór tematu</li><li>✔ Animacje przewijania</li><li>✔ Optymalizacja pod SEO</li></ul></div>
-<div class="card"><span class="badge">Pro</span><h3>Strona premium</h3><p class="price">700–800 zł</p><ul><li>✔ Indywidualny projekt</li><li>✔ Rozbudowane animacje</li><li>✔ Lepsze UX i szybkość</li><li>✔ Gotowość pod rozwój</li><li>✔ Wsparcie po wdrożeniu</li></ul></div>
+<div class="card"><span class="badge">Start</span><h3>Landing Page</h3><p class="price">300–400 zł</p><ul><li>✔ 1 strona (oferta / wizytówka)</li><li>✔ Responsywność (telefon + komputer)</li><li>✔ Formularz kontaktowy</li><li>✔ Podstawowe animacje</li><li>✔ Szybkie wdrożenie</li></ul></div>
+<div class="card"><span class="badge">Popularne</span><h3>Strona firmowa</h3><p class="price">450–600 zł</p><ul><li>✔ Do 5 podstron</li><li>✔ Nowoczesny design</li><li>✔ Formularz + wybór tematu</li><li>✔ Animacje przewijania</li><li>✔ Optymalizacja pod SEO</li></ul></div>
+<div class="card"><span class="badge">Pro</span><h3>Strona premium</h3><p class="price">6560–800 zł</p><ul><li>✔ Indywidualny projekt</li><li>✔ Rozbudowane animacje</li><li>✔ Lepsze UX i szybkość</li><li>✔ Gotowość pod rozwój</li><li>✔ Wsparcie po wdrożeniu</li></ul></div>
 </div>
 </section>
 <section id="options">
@@ -45,7 +45,7 @@
 <div class="pricing">
 <div class="card"><h3>Maile pod domeną</h3><p class="price">50–100 zł</p><p>Konfiguracja adresów e-mail (np. kontakt@twojadomena.pl).</p></div>
 <div class="card"><h3>Podstawowe SEO</h3><p class="price">100–200 zł</p><p>Optymalizacja strony pod wyszukiwarki i poprawa indeksowania.</p></div>
-<div class="card"><h3>Usługa płatności</h3><p class="price">150–300 zł</p><p>Integracja systemu płatności online – można dodać do wizytówki, sklepu lub formularza zamówień.</p></div>
+<div class="card"><h3>Usługa płatności</h3><p class="price">150–250 zł</p><p>Integracja systemu płatności online – można dodać do wizytówki, sklepu lub formularza zamówień.</p></div>
 </div>
 </section>
 <section id="contact">
